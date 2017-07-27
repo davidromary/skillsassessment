@@ -11,7 +11,7 @@ mission_mm <- as.integer(mission_mm[, ncol(mission_mm)])
 items <- exp %>% filter(type_de_contenu == type_de_contenus[type_de_contenu_tt],
                         contenu == contenus[contenu_cc],
                         etablissement == etablissements[etablissement_ee],
-                        # item %in% c("Objectif", "Résultats"),
+                        item %in% c("Contexte", "Objectif", "Démarche", "Résultats", "Mandataire et gouvernance"),
                         mission == missions[mission_mm]) %>% 
   select(item) %>%
   distinct() %>% 

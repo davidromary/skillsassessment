@@ -7,8 +7,8 @@ library(ggplot2)
 library(forcats)
 library(stringi)
 
-pdf_p <- "Bilan_de_competence"
-# pdf_p <- "Curriculum_vitae"
+# pdf_p <- "Bilan_de_competence"
+pdf_p <- "Curriculum_vitae"
 
 rmd.file <- paste(pdf_p, "rmd", sep = ".")
 
@@ -34,5 +34,5 @@ render_pdf <- function(rmd.file, output.file, with_toc){
   options(warn=FALSE)
 }
 
-render_pdf(rmd, paste("../data/output/", pdf_p, "-Version_du_", sep = ""), TRUE)
-# render_pdf(rmd, paste("../data/output/", pdf_p, "-Version_du_", sep = ""), FALSE)
+# render_pdf(rmd, paste("../data/output/", pdf_p, "-Version_du_", sep = ""), TRUE)
+render_pdf(rmd, paste("../data/output/", pdf_p, "-Version_du_", sep = ""), FALSE)
