@@ -1,0 +1,19 @@
+```{r {{item.i}}, echo=FALSE}
+item_i <- {{item.i}}
+item_ii <- ldply(strsplit(as.character(item_i), split = "0"))
+item_ii <- as.integer(item_ii[, ncol(item_ii)])
+
+puces <- exp %>%
+  filter(type_de_contenu == type_de_contenus[type_de_contenu_tt],
+         contenu == contenus[contenu_cc],
+         etablissement == etablissements[etablissement_ee],
+         mission == missions[mission_mm],
+         item == items[item_ii]) %>%
+  select(niveau, puce)
+
+puce_p <- paste(item_i, seq_len(dim(puces)[1]), sep = "0")
+
+src <- lapply(puce_p, function(puce.p) knit_expand(file = "Puce-Latin1.Rmd"))
+```
+**`r items[item_ii]`**
+`r knit(text = unlist(src))`

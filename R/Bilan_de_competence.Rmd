@@ -1,0 +1,376 @@
+---
+title: "Bilan de compétences"
+author:
+- David ROMARY | 16 Résidence le pré au bois | 920420 VAUCRESSON
+- david.romary1@gmail.com | +33675251242
+date: '`r file_date`'
+output:
+  html_document: default
+  pdf_document: null
+subtitle: Architecte en efficacité énergétique et analyste senior
+header-includes:
+- \usepackage[francais]{babel}
+- \usepackage{booktabs}
+---
+
+```{r, echo=FALSE, warning=FALSE}
+exp <- read.csv2(file = "../data/input/Experiences.csv", as.is = TRUE)
+
+if(length(problems(exp)$row) != 0) exp <- exp[-problems(exp)$row, ]
+
+type_de_contenus <- data.frame(exp %>% select(type_de_contenu) %>% distinct())[, 1]
+
+type_de_contenu_t <- seq_len(length(type_de_contenus))
+
+src <- lapply(type_de_contenu_t, function(type_de_contenu.t) knit_expand(file = "Type_de_contenu-Latin1.Rmd"))
+
+```
+`r knit(text = unlist(src))`
+
+# Réussites
+
+## Facteurs contributifs
+
+- Capacités personnelles
+    - Entreprendre, proposer
+    - Apprendre (MOOC, R-blogger...)
+    - Prospecter (consultation d'entreprise, benchmark, évaluation)
+    - Exploiter, utiliser (efficacité, utilité)
+    - Préciser, contrôler, qualifier (perfectionniste)
+- Motivations
+    - Innover, créer, inventer
+    - Contribuer à la création de valeur pour le client et l'entreprise
+    - Formaliser, simplifier et améliorer les procédés (élégance)
+    - Renouveller les problématiques
+- Valeurs
+    - Préserver l'environnement
+
+# Ressentis (versus attentes)
+
+```{r, echo=FALSE, warning=FALSE}
+ressenti <- read.csv2(file = "../data/input/Ressentis.csv", as.is = TRUE)
+if(length(problems(ressenti)$row) != 0) ressenti <- ressenti[-problems(ressenti)$row, ]
+
+ressenti <- ressenti[, c(2,1,3)] %>% arrange(Theme)
+kable(ressenti, caption = "Table des sources de satisfaction et d'insatisfaction", booktabs=TRUE)
+```
+
+# Rôles endosés
+
+- Expertise technique (+++)
+- Interface entre les métiers (++)
+- Bugetiser (++)
+- Managerial (+)
+
+\newpage
+
+# Attentes
+
+## Confort et santé au travail
+
+- **Contexte**
+    - Travail très fréquent en webex, conf call et sur des serveurs distants (VPN)
+    - Localisation actuelle quotidienne à Paris La Défense (arbitraire)
+    - Environnement bruyant (travaux permanents dans la tour, sur le parvis, sur la N13)
+    - Environnement malsain (clos, pas d'ouverture de fenêtre, air véhiculé par la VMC de mauvaise qualité)
+- **Objectif**
+    - Disposer d'un environnement de travail de meilleur qualité
+    - Plus agréable, plus calme, plus sain, propice à une meilleure efficacité
+    
+## Echange avec les paires
+
+- **Contexte**
+    - Travail avec de nombreux clients et de nombreux fournisseurs mais ...
+    - ... peu de paires à proximité pour échanger sur les méthodes de travail employées
+    - Sentiment d'isolement et peut-être d'incompréhension, pas d'ampathie possible, marginalisé
+    - Travail original mais non représentatif dans la société, peu audible par la hierarchie
+    
+- **Objectif**
+    - Pouvoir échanger avec des paires plus accessibles
+    - Progresser et apprendre plus facilement et plus rapidement sur les difficultés du quotidien
+    
+## Moyens à disposition
+
+- **Contexte**
+    - Position de senior sur de nombreux savoir-faires
+    - Pas de possibilité en interne de relayer ces savoir-faires
+    - Sentiment de faible fluidité dans la réalisation des projets
+- **Objectif**
+    - Relayer à de nouveaux collègues les techniques disponibles
+    - Les impliquer dans la réalisation des projets
+
+\newpage
+
+# Compétences (versus expériences)
+
+- Former (apprendre, comprendre, transformer)
+- Chercher (rechercher, calculer, analyser)
+- Créer (concevoir, développer un projet)
+- Communiquer (echanger, proposer, conseiller, promouvoir)
+- Organiser (planifier, piloter, animer, coordonner)
+- Diriger (déléguer, piloter, animer)
+
+```{r, echo=FALSE, warning=FALSE}
+competences <- read.csv2(file = "../data/input/Competences.csv", as.is = TRUE)
+kable(competences[problems(competences)$row, 2:3], caption = "Table des compétences non utilisées")
+```
+
+```{r, echo=FALSE}
+if(length(problems(competences)$row) != 0) competences <- competences[-problems(competences)$row, ]
+
+kable(competences[, -1], caption = "Table des compétences par famille")
+```
+
+\newpage
+
+# Savoirs (versus formation)
+
+- Energie, démarche scientifique, informatique, automatisme, analyse, langue, gestion de projet
+
+```{r, echo=FALSE, warning=FALSE}
+savoirs <- read.csv2(file = "../data/input/Savoirs.csv", as.is = TRUE)
+if(length(problems(savoirs)$row) != 0) savoirs <- savoirs[-problems(savoirs)$row, ]
+
+kable(savoirs, caption = "Table des savoirs par discipline")
+```
+
+Les abréviations employées dans la table précédente sont définies ci-dessous.
+
+```{r, echo=FALSE, warning=FALSE}
+disciplines <- read.csv2(file = "../data/input/Disciplines.csv", as.is = TRUE)
+if(length(problems(disciplines)$row) != 0) disciplines <- disciplines[-problems(disciplines)$row, ]
+
+kable(disciplines, caption = "Table des abréviations par discipline", )
+```
+
+\newpage
+
+# Capacité
+
+## Synthèse
+
+- Force
+    - Profil Extraversion/Detente/Affirmation/Réceptivité très adapté pour argumenter, négocier, conseiller, communiquer, former, diriger en faisant confiance, ouvert aux échanges en mode participatif et bienveillant.
+    - Participatif (Réceptivité + Conciliation)
+    - Animateur (Extraversion + Affirmation)
+    - Bonne ambiance (Détente)
+    - Créer, innover
+    - Management participatif
+    - Echanger, communiquer
+    - Relationnel, coordonner, coopérer, former
+- Faiblesse
+    - Négocier, organiser, renoncer
+    - Etre aprécié (Conciliation + Réceptivité)
+    - le moi
+        - difficultés à fixer mes sentiments (trop de distance et où est le moi ?)
+        - expression de moi pas aisée
+    - réalisme
+        - organiser le temps au profil de la surqualité
+        - compensé en partie par la facilité à réaliser les choses
+    - modération, pondération
+        - discernement, avant de statuer sur une situation, prise de réflexion nécessaire
+        - la reflexion l'emporter sur l'action, prise de décision non spontanée
+        - la sécurité l'emporte sur la prise de risque
+        - ne pousse pas à la synthèse ou la vulgarisation car aller dans le faux et approximatif fait sortir de la perfection
+
+\newpage
+
+## Résultats détaillés
+
+```{r, echo=FALSE, fig.cap="Auto-évaluation de mes capacités par qualité"}
+capacites <- read.csv2(file = "../data/input/Capacites.csv", as.is = TRUE)
+if(length(problems(capacites)$row) != 0) capacites <- capacites[-problems(capacites)$row, ]
+
+levels(capacites$qualite) <- fct_relevel(capacites$qualite, capacites$qualite)
+
+capacites <- capacites %>% mutate(plage = maxi - mini)
+
+capacite_c <- capacites %>% select(1) %>% distinct()
+```
+
+Les capacités peuvent être ventilées parmi les classes **`r stri_c(capacite_c$classe, collapse = ", ")`**.
+
+Les résultats d'un test d'auto évalution sont illustés par le graphique ci-dessous.
+
+```{r, echo=FALSE, warning=FALSE, fig.cap="Auto-évaluation de mes capacités par qualité"}
+
+capacites %>% ggplot() +
+  geom_hline(yintercept = 0.4, colour = "grey") + geom_hline(yintercept = 0.6, colour = "grey") +
+  geom_crossbar(aes(x = levels(qualite),
+                    y = mediane,
+                    ymin = mini,
+                    ymax = maxi,
+                    fill = classe),
+                width = 0.5) +
+  geom_text(aes(x = levels(qualite), y = 0, label = capacites$qualite), size = 3, hjust = 0) +
+  geom_text(aes(x = levels(qualite), y = 1, label = capacites$contraire), size = 3, hjust = 1) +
+  theme(axis.text.y = element_blank()) + 
+  labs(x = "Capacité", y = "Auto-évaluation", size = 8) +
+  coord_flip()
+
+# capacites %>% ggplot() +
+#   geom_tile(aes(x = levels(qualite), y = mediane, fill = capacites$classe),
+#             height = capacites$plage,
+#             width = 0.5,
+#             colour = "grey") +
+#   geom_line()
+```
+
+Ils sont également développés par classe et par capacité dans la table ci-dessous.
+
+```{r, echo=FALSE, warning=FALSE}
+capacites_description <- read.csv2(file = "../data/input/Capacites_description.csv", as.is = TRUE)
+if(length(problems(capacites_description)$row) != 0) capacites_description <- capacites_description[-problems(capacites_description)$row, ]
+
+kable(capacites_description, caption = "Description des capacités")
+```
+
+\newpage
+
+# Valeurs (versus attente)
+
+```{r, echo=FALSE}
+valeurs <- read.csv2(file = "../data/input/Valeurs.csv", as.is = TRUE)
+if(length(problems(valeurs)$row) != 0) valeurs <- valeurs[-problems(valeurs)$row, ]
+
+valeurs <- valeurs %>% mutate(angle_vrb = 90 + 360/length(unique(valeur))*(.5 - seq_along(valeur))) %>% select(1, 2, 3, 5, 4)
+
+levels(valeurs$classe_de_valeur) <- fct_relevel(unique(valeurs$classe_de_valeur), unique(valeurs$classe_de_valeur))
+levels(valeurs$valeur) <- fct_relevel(valeurs$valeur, valeurs$valeur)
+
+valeur_v <- valeurs %>% select(1) %>% distinct()
+```
+
+Les valeurs peuvent être ventilées parmi les classes **`r stri_c(valeur_v$classe_de_valeur, collapse = ", ")`**.
+
+Dans le graphique ci-dessous, seul les valeurs dont l'auto-évalution est supérieure à 4 (sur un maximum de 5) sont conservées.
+
+Il permet une synthèse des principales valeurs par classe.
+
+```{r, echo=FALSE, warning=FALSE, fig.cap="Auto-évaluation de mes valeurs par classe"}
+# valeurs %>% ggplot() +
+#   geom_bar(aes(x = levels(valeur), y = 10, fill = classe_de_valeur, alpha = 0.8), stat = "identity", width = 1) +
+#   geom_text(levels(valeurs$classe_de_valeur), aes(x = levels(classe_de_valeur), y = 5, label = levels(classe_de_valeur), angle = 90), position = position_stack(vjust = 0.5))
+
+
+valeurs %>% ggplot() +
+  geom_bar(aes(x = levels(valeur), y = 10, fill = classe_de_valeur, alpha = 0.8), stat = "identity", width = 1) +
+  coord_polar() +
+  geom_polygon(aes(x = levels(valeur), y = evaluation, group = 1), color = "black", fill = NA) +
+  theme_minimal(base_size = 8) +
+  labs(x = "Valeur", y = "Auto-évaluation")
+  # theme(axis.text.x = element_text(
+  #   # vjust = 50,
+  #   angle = valeurs$angle_vrb))
+```
+
+\newpage
+
+# Motivations
+
+## Motivations par classe
+
+```{r, echo=FALSE}
+motivations <- read.csv2(file = "../data/input/Motivations.csv", as.is = TRUE) %>% filter(evaluation > 3)
+if(length(problems(motivations)$row) != 0) motivations <- motivations[-problems(motivations)$row, ]
+
+motivations <- motivations %>% filter(!is.na(classe_de_motivation)) %>% mutate(angle_motivations = 90 + 360/length(unique(motivation))*(.5 - seq_along(motivation))) %>% select(1, 2, 3, 4, 5, 7, 6)
+
+levels(motivations$classe_de_motivation) <- fct_relevel(unique(motivations$classe_de_motivation), unique(motivations$classe_de_motivation))
+levels(motivations$motivation) <- fct_relevel(motivations$motivation, motivations$motivation)
+
+motivations_m <- motivations %>% select(3) %>% distinct()
+```
+
+Les motivations peuvent être ventilées parmi les classes **`r stri_c(motivations_m$classe_de_motivation, collapse = ", ")`**.
+
+Dans le graphique ci-dessous, seul les motivations dont l'évalution est supérieure à une valeur de 4 (sur un maximum de 5) sont conservées.
+
+Il permet une synthèse des principales motivations par classe.
+
+```{r, echo=FALSE, warning=FALSE, fig.cap="Auto-évaluation de mes motivations par classe"}
+motivations %>% ggplot() +
+  geom_bar(aes(x = levels(motivation), y = 5, fill = classe_de_motivation, alpha = 0.8), stat = "identity", width = 1) +
+  coord_polar() +
+  geom_polygon(aes(x = levels(motivation), y = evaluation, group = 1), color = "black", fill = NA) +
+  theme_minimal(base_size = 8) +
+  labs(x = "Motivation", y = "Auto-évaluation")
+  # theme(axis.text.x = element_text(
+  #   # vjust = 50,
+  #   angle = valeurs$angle_vrb))
+```
+
+\newpage
+
+## Motivation par contexte
+
+```{r, echo=FALSE}
+motivations <- motivations %>% arrange(contexte)
+levels(motivations$contexte) <- fct_relevel(unique(motivations$contexte), unique(motivations$contexte))
+levels(motivations$motivation) <- fct_relevel(motivations$motivation, motivations$motivation)
+
+motivations_m <- motivations %>% select(2) %>% distinct()
+```
+
+Les motivations peuvent être ventilées parmi les contexte **`r stri_c(motivations_m$contexte, collapse = ", ")`**.
+
+Le graphique ci-dessous propose une synthèse des principales motivations par contexte.
+
+```{r, echo=FALSE, fig.cap="Motivations par contexte au travail"}
+motivations %>% ggplot() +
+  geom_bar(aes(x = levels(motivation), y = 1, fill = contexte, alpha = 0.8), stat = "identity", width = 1) +
+  coord_polar() +
+  theme_minimal(base_size = 8) +
+  labs(x = "Motivation par contexte", y = "")
+  # theme(axis.text.x = element_text(
+  #   # vjust = 50,
+  #   angle = valeurs$angle_vrb))
+```
+
+```{r, echo=FALSE, eval=FALSE}
+nodes_n <- bind_rows(motivations %>% select(contexte) %>% rename(nodes = contexte),
+                     motivations %>% select(motivation) %>% rename(nodes = motivation)) %>% distinct()
+
+nodes_n[nrow(nodes_n)+1, 1] <- "Mes motivations"
+nodes_n <- create_nodes(nodes = nodes_n$nodes)
+
+nbr_contexte <- nrow(motivations %>% select(contexte) %>% distinct())
+
+
+edges_e <- motivations %>% select(2, 4)
+edges_e <- bind_rows(edges_e,
+                     bind_cols(tbl_df(data.frame(contexte = rep("Mes motivations", nbr_contexte))),
+                               motivations %>% select(contexte) %>% distinct() %>% rename(motivation = contexte)))
+
+edges_e <- create_edges(from = edges_e$contexte,
+                        to = edges_e$motivation)
+
+create_graph(nodes_df = nodes_n, edges_df = edges_e) %>% render_graph(output = "visNetwork")#output = "visNetwork", "vivagraph")
+```
+
+# Motivation professionnelle
+
+## Motivations essentielles
+
+La table ci-dessous liste les motivations essentielles à satisfaire par l'activité professionnelle.
+
+```{r, echo=FALSE}
+motivations_pro <- read.csv2(file = "../data/input/Motivations_professionnelles.csv", as.is = TRUE)
+if(length(problems(motivations)$row) != 0) motivations <- motivations[-problems(motivations)$row, ]
+
+kable(x = motivations_pro %>%
+        filter(Priorite > 1) %>%
+        select(2, 4),
+      caption = "Motivations essentielles atteintes et non atteintes")
+```
+
+## Motivations non atteintes
+
+```{r, echo=FALSE}
+kable(x = motivations_pro %>%
+        filter(Priorite > 0, Atteinte == 0) %>%
+        select(2, 3, 5) %>%
+        arrange(desc(Priorite)),
+      caption = "Raisons des motivations essentielles non atteintes")
+```
+

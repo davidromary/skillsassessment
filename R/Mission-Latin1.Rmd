@@ -1,0 +1,28 @@
+```{r {{mission.m}}, echo=FALSE}
+mission_m <- {{mission.m}}
+mission_mm <- ldply(strsplit(as.character(mission_m), split = "0"))
+mission_mm <- as.integer(mission_mm[, ncol(mission_mm)])
+
+# type_de_contenu_tt <- 1
+# contenu_cc <- 1
+# etablissement_ee <- 1
+# mission_mm <- 1
+
+items <- exp %>% filter(type_de_contenu == type_de_contenus[type_de_contenu_tt],
+                        contenu == contenus[contenu_cc],
+                        etablissement == etablissements[etablissement_ee],
+                        # item %in% c("Objectif", "Résultats"),
+                        mission == missions[mission_mm]) %>% 
+  select(item) %>%
+  distinct() %>% 
+  pull(item)
+
+# items <- data.frame(items)[, 1]
+
+item_i <- paste(mission_m, seq_len(length(items)), sep = "0")
+
+src <- lapply(item_i, function(item.i) knit_expand(file = "Item-Latin1.Rmd"))
+
+```
+\begin{center}\underline{`r missions[mission_mm]`}\end{center}
+`r knit(text = unlist(src))`

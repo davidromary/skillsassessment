@@ -1,0 +1,11 @@
+classe;qualite;contraire;mini;mediane;maxi
+Relation;Introversion;Extraversion;0,452898551;0,557971014;0,663043478
+Relation;Détente;Anxiété;0,188405797;0,297101449;0,405797101
+Relation;Remise en cause;Affirmation;0,427536232;0,576086957;0,724637681
+Relation;Détermination;Réceptivité;0,565217391;0,677536232;0,789855072
+Action;Improvisation;Rigueur;0,213768116;0,336956522;0,460144928
+Action;Conformisme intellectuel;Dynamisme intellectuel;0,663043478;0,717391304;0,77173913
+Action;Conciliation;Combativité;0,275362319;0,416666667;0,557971014
+Motivation;Facilitation;Réalisation;0,355072464;0,449275362;0,543478261
+Motivation;Indépendance;Appartenance;0,5;0,644927536;0,789855072
+Motivation;Protection;Pouvoir;0,434782609;0,608695652;0,782608696

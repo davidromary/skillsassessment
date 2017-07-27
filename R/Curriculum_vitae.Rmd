@@ -1,0 +1,27 @@
+---
+title: "Curriculum vitae"
+author:
+- David ROMARY | 16 Résidence le pré au bois | 920420 VAUCRESSON
+- david.romary1@gmail.com | +33675251242
+date: '`r file_date`'
+output:
+  html_document: default
+  pdf_document: null
+subtitle: Architecte en efficacité énergétique et analyste senior
+header-includes:
+- \usepackage[francais]{babel}
+- \usepackage{booktabs}
+---
+
+```{r, echo=FALSE, warning=FALSE}
+exp <- read.csv2(file = "../data/input/Experiences.csv", as.is = TRUE)
+
+if(length(problems(exp)$row) != 0) exp <- exp[-problems(exp)$row, ]
+
+type_de_contenus <- data.frame(exp %>% select(type_de_contenu) %>% distinct())[, 1]
+
+type_de_contenu_t <- seq_len(length(type_de_contenus))
+
+src <- lapply(type_de_contenu_t, function(type_de_contenu.t) knit_expand(file = "Type_de_contenu-Latin1.Rmd"))
+```
+`r knit(text = unlist(src))`

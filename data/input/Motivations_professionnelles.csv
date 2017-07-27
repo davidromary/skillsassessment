@@ -1,0 +1,44 @@
+Item;Motivation;Priorite;Atteinte;Raison;Description
+1;Accessibilite;2;1;;Lieu de travail à  proximité du domicile.
+2;Accomplissement;2;1;;Obtenir des satisfactions personnelles dans mes réalisations, en ayant mené à  terme ou réussi  les actions entreprises et produit des résultats. Trouver un épanouissement personnel dans le travail.
+3;Appartenance;1;0;Seul à  employer ces méthodes dans l'entreprise;M'identifier et m'intégrer au sein d'une organisation ou d'un groupe : y être considéré en tant qu'individu, respecté pour ce que l'on est.  Ambiance de travail détendue et cordiale dans laquelle des relations interpersonnelles basées sur la confiance peuvent se développer.
+4;Apprentissage;2;1;;Exercer une activité permettant d'accroître mes connaissances, mon savoir-faire professionnel.
+5;Autonomie;2;1;;"Avoir la possibilité d'agir et de déterminer par-moi-même comment mener mon activité ; ne pas devoir me justifier à  chaque étape de mon travail ; pouvoir prendre des initiatives."
+6;Aventure;1;1;;Occuper un emploi stimulant et exaltant, comportant des risques, de l'imprévu, des événements inattendus, de la découverte et dont l'aboutissement est incertain ou inconnu.
+7;Challenge;1;1;;"Exercer une activité comprenant des défis à  relever ; être en situation d'affronter une chose difficile à  réaliser et y répondre."
+8;Collaboration;1;0;Collègues et hierarchie en meconnaissance des méthodes employées;Travailler avec une hiérarchie auprès de laquelle il est possible de donner un avis, un conseil et de proposer son aide. Travailler avec des collègues, des partenaires sur un mode participatif et contributif.
+9;Competition;0;;;Avoir une activité à  travers laquelle je peux tester ma capacité à  me mettre en concurrence avec d'autres.
+10;Contact;0;;;"Etre en relation avec un public, une clientèle, des collègues, des partenaires; personnaliser et adapter mon travail en fonction de ce public."
+11;Controle;0;;;Etre en position de maâtriser autant que possible mon travail quotidien.
+12;Consideration externe;0;;;Exercer une profession qui apporte la considération de son environnement personnel (famille, proches, amis, milieu).
+13;Creativite;2;1;;Créer de nouveaux concepts, produits, services, systèmes qui ne suivent pas les codes, procédures, modèles établis. (Production artistique ou autres)
+14;Depassement;0;;;"Etre en situation de surmonter des difficultés ; me surpasser en allant au delà  de ce qui est attendu ou habituel, ou de mes propres limites."
+15;Diversite;0;;;Avoir un travail varié permettant des changements de tâches et / ou de lieux et / ou de rythme.
+16;Environnement physique et matériel;2;0;Environnement matériel inadapté et physique peu attractif;Travailler dans un lieu attrayant et confortable dans lequel je me sente bien.
+17;Equipe;1;0;Seul à  employer ces méthodes dans l'entreprise;Partager avec d'autres des objectifs communs dans un contexte participatif et coopératif. 
+18;Esthetique;1;1;;M'investir dans une activité en rapport avec la recherche de ce qui est beau, qui vise la mise en valeur. Rendre attrayant, améliorer les aspects visibles d'un objet, d'un document, d'un lieu
+19;Expertise;0;;;Etre spécialisé dans un domaine ou un champ d'activités. Avoir un domaine de prédilection que je maîtrise.
+20;Gain;0;;;Avoir un revenu en adéquation avec  mes besoins, ou qui me permette de vivre sans avoir à  compter, ou que j'estime suffisamment important.
+21;Influence;0;;;Avoir une position permettant d'avoir une action sur la situation ou sur les autres.
+22;Jeu;1;1;;"Agir pour "" le plaisir "" ; ne pas se prendre au sérieux ; trouver une dimension ludique dans mon activité."
+23;Minutie;0;;;Accomplir des tà¢ches nécessitant patience, concentration, précision et exactitude.
+24;Morale;2;1;;Travailler dans un domaine qui corresponde à  mes principes et qui respecte mon éthique, ou qui ne soit pas en contradiction avec mes convictions et valeurs personnelles.
+25;Pouvoir/autorite;0;;;Etre en position de tracer  la direction à  suivre et de fixer des objectifs.
+26;Profit;2;0;Entreprise importante à  forte inertie de décision;Contribuer par mon action et mes efforts aux résultats de l'entreprise pour laquelle je travaille.
+27;Proximite du pouvoir;0;;;Etre près des lieux de pouvoir, être en relation avec des personnes d'influence et participer aux décisions.
+28;Reconnaissance;0;;;Etre considéré pour son engagement : implication, mobilisation, investissement personnel, effort, énergie déployée.
+29;Representation;0;;;Parler en public, gagner l'attention et être le centre d'intérêt d'un groupe.
+30;Responsabilite;1;1;;Avoir une position me permettant d'agir sur la qualité et la réussite de mes résultats en prenant les décisions nécessaires et en assumer la charge.
+31;Rythme de travail;0;;;Pouvoir exercer mon activité à  mon propre rythme et selon ma propre gestion du temps.
+32;Securite/stabilite;0;;;Me maintenir de façon durable dans un emploi ou un secteur d'activité. 
+33;Services aux autres;1;1;;Exercer une activité permettant d'apporter de l'aide à  autrui (assistance, soutien, conseil, secours, soins).
+34;Solidarite;0;;;M'investir dans des problèmes concernant un groupe au sein duquel on se porte entraide et assistance réciproque. 
+35;Solitaire;0;;;Travailler seul et dépendre le moins possible des autres pour réaliser mes tâches.
+36;Stimulation intellectuelle;2;1;;Résoudre des problèmes, réfléchir et apprendre par moi-même, être face à  des situations stimulant mes aptitudes à  trouver des solutions.
+37;Structuration par l'externe;0;;;Travailler dans un environnement structuré qui fournit des démarches, des procédures et des objectifs à  atteindre. Etre doté d'indications claires à  partir desquelles je peux agir.
+38;Tranquillite;0;;;Travailler dans un contexte engendrant le moins possible de stress et de pression.
+39;Valorisation des competences;0;;;Etre considéré pour ma contribution : efficacité, utilité, faà§on de réaliser ses tà¢ches, qualité du travail accompli, résultats obtenus.
+40;Vieprivee;0;;;Avoir une situation professionnelle qui me laisse du temps pour ma vie privée et/ou mes activités personnelles.
+41;Vocation/passion;2;1;;"Exercer une activité en rapport avec mes centres d'intérêts majeurs ; travailler dans un domaine qui me tient profondément à  coeur."
+42;Urgence;0;;;Travailler dans un contexte nécessitant d'agir dans  un court délai, de répondre immédiatement à  des impératifs, de produire selon des plannings serrés.
+43;Utilité;2;1;;Apporter ma contribution à  une oeuvre commune,  participer à  un projet que j'estime important.

@@ -1,0 +1,14 @@
+```{r {{type_de_contenu.t}}, echo=FALSE}
+type_de_contenu_tt <- {{type_de_contenu.t}}
+
+contenus <- data.frame(exp %>%
+                         filter(type_de_contenu == type_de_contenus[type_de_contenu_tt]) %>%
+                         select(contenu) %>%
+                         distinct())[, 1]
+
+contenu_c <- paste(type_de_contenu_tt, seq_len(length(contenus)), sep = "0")
+
+src <- lapply(contenu_c, function(contenu.c) knit_expand(file = "Contenu.Rmd"))
+```
+# `r type_de_contenus[type_de_contenu_tt]`
+`r knit(text = unlist(src))`

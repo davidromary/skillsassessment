@@ -1,0 +1,17 @@
+```{r {{contenu.c}}, echo=FALSE}
+contenu_c <- {{contenu.c}}
+contenu_cc <- ldply(strsplit(as.character(contenu_c), split = "0"))
+contenu_cc <- as.integer(contenu_cc[, ncol(contenu_cc)])
+
+etablissements <- data.frame(exp %>%
+                               filter(type_de_contenu == type_de_contenus[type_de_contenu_tt],
+                                      contenu == contenus[contenu_cc]) %>%
+                               select(etablissement) %>%
+                               distinct())[, 1]
+
+etablissement_e <- paste(contenu_c, seq_len(length(etablissements)), sep = "0")
+
+src <- lapply(etablissement_e, function(etablissement.e) knit_expand(file = "Etablissement-Latin1.Rmd"))
+```
+## `r contenus[contenu_cc]`
+`r knit(text = unlist(src))`

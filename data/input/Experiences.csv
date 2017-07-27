@@ -1,0 +1,352 @@
+type_de_contenu;contenu;etablissement;mission;item;niveau;puce
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission H de 2017 à aujourd'hui;Contexte;1;Conduite des installations de chauffage avec faible ou non prise en compte des données suivantes
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission H de 2017 à aujourd'hui;Contexte;2;Caractéristiques thermiques des bâtiments (inertie, apports gratuits)
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission H de 2017 à aujourd'hui;Contexte;2;Prévisions météorologiques
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission H de 2017 à aujourd'hui;Contexte;2;Planning d'occupation ou d'activité des usagers
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission H de 2017 à aujourd'hui;Objectif;1;Calibrer des modèles par installation liant la température d'ambiance aux autres facteurs d'influence
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission H de 2017 à aujourd'hui;Objectif;1;Proposer une aide à la conduite prédictive pour améliorer le service client et la compétitivité
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission H de 2017 à aujourd'hui;Démarche;1;Sélectionner le parc d'installations disposant des données nécessaires
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission H de 2017 à aujourd'hui;Démarche;1;Etablir des partenariats avec des organisations en connaissance des méthodes recherchées
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission H de 2017 à aujourd'hui;Démarche;1;Constituer une experimentation opérationnelle et vérifier la performance de ces méthodes 
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission H de 2017 à aujourd'hui;Démarche;1;Etablir des partenariats avec des organisations en capacité d'implémenter ces méthodes
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission H de 2017 à aujourd'hui;Démarche;1;Développer, tester et mettre en production ces méthodes
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission G de 2016 à aujourd'hui;Contexte;1;Flux de series temporelles du portefeuille d'installations techniques de l'entreprise peu valorisé
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission G de 2016 à aujourd'hui;Objectif;1;Créer le connecteur pour traiter ces données sous forme d'indicateurs d'aide à la décision
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission G de 2016 à aujourd'hui;Objectif;1;Integrer au traitement des méthodes d'audit et de nettoyage de la qualité de ces données
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission G de 2016 à aujourd'hui;Objectif;1;Embarquer ces indicateurs au sein de plateformes de hypervision opérationnelles réparties
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission G de 2016 à aujourd'hui;Résultats;1;Classification du portefeuille pour structurer ces données et réaliser le connecteur stratégique
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission G de 2016 à aujourd'hui;Résultats;1;Qualifier les series temporelles, identifier les suscpects et fiabiliser les indicateurs
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission G de 2016 à aujourd'hui;Démarche;1;Identifier et borner le besoin aux indicateurs principaux de la plateforme
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission G de 2016 à aujourd'hui;Démarche;1;Mettre en place des règles de detection orthographique sur les attributs utiles en base
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission G de 2016 à aujourd'hui;Démarche;1;Employer des méthodes de clustering pour regrouper des series temporelles homogènes
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission G de 2016 à aujourd'hui;Démarche;1;Alimenter les dimensions de la structure cible par les valeurs identifiées
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission G de 2016 à aujourd'hui;Démarche;1;Spécifier diverses règles fonctionnelles pour qualifier chaque évenement des series temporelles
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Contexte;1;Très nombreux contrats d'exploitation maintenance pour tout type de segments client
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Contexte;1;Très nombreuses tables de données sur lesquelles peu d'analyses sont produites (accès aux données)
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Contexte;1;Nombreuses missions d'analyse à prioriser et réaliser
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Contexte;1;Nombreux prestataires désireux de vendre des services en tout genre
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Objectif;1;Permettre à l'entreprise de valoriser de multiples jeux de données opérationnelles
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Objectif;1;Focus sur les données en lien avec l'efficacité énergétique
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Démarche;1;Identifier et borner le besoin métier porteur de Décision (initiative personnelle ou demande)
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Démarche;1;Collecter les données brutes à analyser
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Démarche;1;Elaborer une solution de traitement à soumettre aux mandataires
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Démarche;2;Rechercher dans la bibliographie les méthodes disponibles nécessaire au traitement souhaité
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Démarche;2;Se former et prendre en main pour une mise en pratique de ces méthodes
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Démarche;1;Déléguer à la tribu de data scientists ENGIE la problématique à résoudre
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Démarche;2;S'autoformer à l'occasion des restitutions
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Démarche;1;Transmettre aux mandataires la solution pour validation et appropriation
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Démarche;1;Promouvoir ces solutions par l'obtention de budgets d'industrialisation / déploiement
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Résultats;1;Créer des flux pour interfacer des applications
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Résultats;1;Produire et illustrer les ratios énergétiques pour l'interne, l'externe (la profession...)
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Résultats;2;Anoblir et professionnaliser l'image de Cofely
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Résultats;1;Etudier l'impact climatique sur le nombre d'appels client pour problèmes de chauffage
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Résultats;1;Structurer, classer et qualifier les bases de données opérationnelles d'installations en télé gestion
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Résultats;1;Dresser les cas d'usage de ces données pour permettre au métier de performer
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Résultats;1;Identifier le parc d'installations permettant la réalisation de ces cas d'usage
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Difficultés;1;Traiter l'information est capital pour la pro-activité d'une entreprise face aux attentes clients
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Difficultés;1;Ces nouvelles méthodes de traitement révolutionnent les process data de l'entreprise
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Difficultés;1;S'adapter à ces changements constitue un véritable challenge pour les organisations
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Difficultés;1;Veiller à l'adequation entre solutions proposées et attentes client
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Relations;1;Grande autonomie d'action par rapport à ma hierarchie
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Relations;1;En transverse avec toutes les équipes d'exploitation de l'entreprise
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Relations;1;Echanges interne et externe ENGIE sur ces méthodes de traitement de la donnée
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Ressenti;1;Satisfaction : apporter des analyses originales d'aide à la Décision à l'entreprise
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Ressenti;1;Insatisfaction : ne pas promouvoir et partager ces savoirs faire au sein de l'entreprise
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission F de 2014 à aujourd'hui;Décision;1;Réaliser un bilan de compétences
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Objectif;1;Développer une méthode statistique pour établir les budgets énergétiques des bâtiments tertiaires
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Contexte;1;Besoin d'un comparatif mesure versus prévision réaliste pour le suivi de la performance
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Contexte;1;Pertinence de l'application précédente conditionnée à une prévision précise des budgets
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Contexte;1;Pas de méthode structurée pour établir des budgets de consommation énergétique précis
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Contexte;1;Définir des budgets à partir de facteurs potentiellement influents
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Contexte;1;Collecte des informations de ces facteurs fastidieuse et chronophage pour les opérateurs
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Mandataire et gouvernance;1;Initiative personnelle, pilotage du projet pris en charge personnellement
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Démarche;1;Benchmarker les méthodes du marché
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Démarche;1;Poster et recruter deux stagiaires sur proposition de projets de fin d'étude d'école d'ingénieur
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Démarche;1;Exprimer le cadre, le processus et le livrable attendu
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Démarche;1;Former, accompagner et contrôler les résultats obtenus
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Démarche;1;Valoriser l'interface produite auprès des équipes d'exploitation
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Démarche;1;Promouvoir l'interface par l'obtention de budgets pour son  industrialisation
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Relations;1;En transverse avec toutes les équipes d'exploitation de l'entreprise
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Relations;1;Interaction avec la filière commerciale
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Relations;1;Avec les tuteurs universitaires des stagiaires
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Relations;1;Avec de nombreuses filiale de Cofely intéressées par l'utilisation de cette méthode
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Résultats;1;Pas de méthode du marché répondant au besoin de la profession
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Résultats;1;Une interface de chiffrage opérationnelle mise à disposition des équipes
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Résultats;1;Des sessions de formation et de mise en situation réelle
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Résultats;1;Des budgets énergétiques chiffrés comme jamais dans des délais records
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Résultats;1;Ce livrable s'intégre complétement à la démarche de la mission D
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Résultats;1;Refus par l'entreprise du business plan, de la promotion et des partenaires proposés
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Difficultés;1;L'apport de valeur par l'expertise et le packaging d'un produit
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Difficultés;1;Le travail, la stimulation et la performance en équipe
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Ressenti;1;Satisfaction : apporter à l'entreprise une meilleure connaissance de ces budgets
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Ressenti;1;Insatisfaction
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Ressenti;2;Ne pas être accompagner de l'entreprise pour industrialiser
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Ressenti;2;Ne plus pouvoir tenir une position de prospection car pas de promotion des livrables
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission E de 2011 à 2012;Décision;1;Ne plus encadrer de stagaires accompagné d'un sentiment d'ambivalence
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Objectif;1;Accompagner le suivi de la performance énergétique des affaires du segment tertiaire
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Contexte;1;Equipes d'exploitation démunies pour opérer le suivi de la performance de ces sites
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Contexte;1;Applications d'entreprises actuelles inadaptées pour opérer ce suivi
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Contexte;1;Faible réactivite pour le contrôle de la performance de ces enjeux financiers importants
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Mandataire et gouvernance;1;A la demande de ma hiérarchie, pilotage du projet pris en charge personnellement
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Démarche;1;Exprimer le besoin après consultation des équipes d'exploitation pour évaluer les éditeurs
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Démarche;1;Selectionner l'éditeur proposant l'application d'entreprise la mieux adaptée
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Démarche;1;S'approprier la solution via échanges techniques pour être en bonne maitrise de l'application
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Démarche;1;Anticiper et généraliser le besoin de maniére à ne pas avoir à gérer d'exceptions
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Démarche;1;Animer de nombreux ateliers avec les équipes afin d'initialiser le suivi de la performance
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Démarche;1;Accompagner le changement dans les partiques de suivi de la performance de ces affaires
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Démarche;1;Administrer l'application
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Relations;1;En transverse avec toutes les équipes d'exploitation de l'entreprise
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Relations;1;Avec les directions commerciales et des systèmes d'information
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Relations;1;Avec l'éditeur
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Relations;1;Avec une autre filiale du groupe cliente de la même application
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Résultats;1;Montée en compétence des équipes d'exploitation pour l'utilisation de la plateforme
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Résultats;1;Abandon de l'artisanat au profil d'un environnement industriel
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Résultats;1;Réactivité ramenée en j+1 pour la détection d'écarts de production
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Résultats;1;Impossibilité de rendre autonome ces équipes pour la configuration de leur affaire
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Résultats;1;Partie importante de la configuration de ces affaires de mon ressort
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Difficultés;1;Grande rigueur dans l'expression des Difficultés de compréhension de l'application avec l'éditeur
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Difficultés;1;Simplification des processus metiers complexes pour permettre l'industrialisation
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Difficultés;1;Coût du déploiement de la solution
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Difficultés;1;Gouvernance du projet par les filiéres exploitation, commerce et informatique
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Ressenti;1;Satisfaction : apporter aux équipes d'exploitation un nouveau regard sur leur performance
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Ressenti;1;Insatisfaction : ne pas pouvoir harmoniser les demandes pour automatiser la phase de configuration
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission D de 2010 à aujourd'hui;Décision;1;Voir missions actuelles
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Objectif;1;Promouvoir la STD \footnote{Simulation thermique dynamique} pour quantifier les gains de pilotage énergétique des bâtiments tertiaires
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Contexte;1;Compétences rares en interne pour Réaliser ces études à haute technicité
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Contexte;1;Pression des clients, de la concurrence et des institutions pour la réalisation d'audits énergétiques
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Contexte;1;Palier aux lacunes de la mission précédente
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Contexte;2;Impossibilité de valider les chiffrages par des campagnes de mesure paralléles
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Contexte;2;Pas de couplage des usages électriques aux autres usages (gaz...) de ces bâtiments
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Mandataire et gouvernance;1;Initiative personnelle, pilotage du projet pris en charge personnellement
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Démarche;1;Encadrer un stagiaire en projet de fin d'étude mis en disponibilité par la direction commerciale
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Démarche;1;Rappeler les règles de l'art pour les automatismes mis en oeuvre dans le pilotage de ces équipements
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Démarche;1;Choisir une plateforme de calcul adaptée pour acceuillir les scripts de régulations de ces systèmes
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Démarche;1;Modéliser les systèmes sur lesquels Cofely peut porter des actions dans un cadre contractuel
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Démarche;1;Valider in-situ les gains chiffrés d'actions comparés aux mesures réelles obtenues
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Démarche;1;Benchmarker les éditeurs et bureaux d'études utilisateurs de ces méthodes
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Démarche;1;Déleguer les prestations d'audits énergétiques en disposant de la maîtrise du sujet
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Relations;1;En transverse avec toutes les équipes d'exploitation de l'entreprise
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Relations;1;Avec le tuteur universitaire du stagiaire
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Relations;1;Avec un centre de R&D d'ENGIE
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Relations;1;Avec les éditeurs de logiciel de STD et bureaux d'études utilisateurs
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Résultats;1;Une première ébauche d'un modèle de STD développé en interne pour le chiffrage de ces gains
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Résultats;1;Plusieurs pilotes audités par cette méthode révélant l'expertise nécessaire pour son usage
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Résultats;1;Une monté en compétence d'un stagiaire sur une activité à haute valeur ajoutée et trés opérationnelle
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Résultats;1;Un cahier des charges des fonctions à supporter par la méthode pour consulter les éditeurs
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Résultats;1;Quelques solutions logicielles du marché à la hauteur de l'enjeu
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Résultats;1;Partenariat avec bureaux d'études spécialisés pour réaliser des STD validées de campagnes de mesures
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Difficultés;1;La haute ambition portée par le concept du projet d'origine
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Difficultés;1;La révélation de la complexité des processus de pilotage des automatismes de ces équipements
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Ressenti;1;Satisfaction : proposer une solution adaptée au problème posé
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Ressenti;1;Insatisfaction : constater le peu d'adhésion des équipes concernées
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission C de 2008 à 2011;Décision;1;Idem que mission Mission A de 2002 à 2011
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Objectif;1;Promouvoir une méthode pour réduire les dépenses d'électricité des bâtiments tertiaires
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Contexte;1;Apporter une répondre aux lacunes de la mission précédente
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Contexte;1;méthodes désuétes pour valoriser (en Euro) les consommations d'électricité de ces clients
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Contexte;1;Pas de comparatif précis des consommations d'électricité antérieures et postérieures à des actions de progrès sur ces équipements
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Contexte;1;Pas de valorisation (en Euro) aisée
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Contexte;1;Etudes d'avant vente délicate et chronophage
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Mandataire et gouvernance;1;A la demande de ma hiérarchie, pilotage du projet pris en charge personnellement
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Démarche;1;Rechercher des solutions du marché pour Réaliser ce genre d'étude
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Démarche;1;Formaliser les règles de calcul des structures tarifaires d'EDF pour ce ségment
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Démarche;1;Collecter les actions de progrès récurrentes effectuées sur les équipements électriques
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Démarche;1;Formaliser les règles de calcul des consommations / gains d'électricité liées à ces actions
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Démarche;1;Déleguer à une SSII le développement d'une application intégrant ces règles
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Démarche;1;Former et accompagner les équipes d'avant vente à l'emploi de l'application
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Relations;1;Grande autonomie d'action par rapport à ma hierarchie
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Relations;1;Relation très étroite avec la SSII
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Relations;1;Proximité et empathie vis-à-vis des utilisateurs
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Résultats;1;Pas de solution du marché répondant au besoin de la profession
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Résultats;1;Une application mise en production et accessible à tous les ingénieurs d'études
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Résultats;1;Des offres de gains sur consommation d'électricité chiffrées avec précision
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Résultats;1;Une facilité, un temps et une stabilité de chiffrage très fortement améliorés
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Résultats;1;La capacité d'aborder ce marché beaucoup plus sereinement que par le passé
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Difficultés;1;Exigence dans l'action de déléguer, clarté de la demande, contrôle des résultats
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Difficultés;1;Exigence des utilisateurs, habitudes hétéroclites, habilité au changement
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Ressenti;1;Satisfaction : mettre à disposition des équipes une méthode simple de chiffrage
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Ressenti;1;Insatisfaction : obtenir des résultats mitigés en terme d'appropriation par les équipes
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission B de 2004 à 2006;Décision;1;Réduire les doléances des équipes par rapports aux approximations techniques de la méthode
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Objectif;1;Accompagner le chiffrage d'affaires de type performance énergétique sur segment tertiaire
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Contexte;1;Promotion par les équipes d'avant vente de ces affaires pour ce nouveau segment
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Contexte;1;Mais mauvaise connaissance de la composante électricité dans les offres
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Contexte;1;Pas de processus structuré pour la réalisation des diagnostics énergétiques préalables au chiffrage
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Contexte;1;Pas d'estimation de la prise de risque et pas de business modèle clair pour ce type d'affaire
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Mandataire et gouvernance;1;A la demande de ma hiérarchie, co-pilotage avec les parties
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Démarche;1;Borner les usages énergétiques sur lesquels Cofely à la main
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Démarche;1;Collecter les données énergétiques in-situ pour établir la situation initiale de ceux-ci
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Démarche;2;Récupérer directement les données disponibles des systèmes d'acquisitions des clients
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Démarche;2;Rechercher des méthodes de mesure pour les données non disponibles dans ces systèmes
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Démarche;2;Packager via un centre de R&D ENGIE les mallettes de mesure pour ces données
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Démarche;2;Tester et employer ces dispositifs sur le terrain
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Démarche;1;Proposer aux équipes un processus technique de réalisation des audits et coût associé
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Démarche;1;Communiquer les résultats obtenus de ces audits
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Relations;1;Co-pilotage avec les responsables d'affaires
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Relations;1;Bonnes pratiques avec un centre de R&D ENGIE et avec les fabricants en métrologie automatisme
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Relations;1;Relationnel avec les clients finaux
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Résultats;1;Réalisation de nombreux diagnostics énergétiques pour les prospects
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Résultats;1;Contribution à de nombreux succés commerciaux
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Résultats;1;Montée en compétence en métrologie et acquisition de données
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Difficultés;1;Compétences rares dans les filières pour relayer la réalisation de ces études à haute technicité
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Difficultés;1;Incidence de la mise en oeuvre de la métrologie sur les résultats obtenus
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Ressenti;1;Satisfaction : apporter une valeur ajoutée concréte à l'action de l'entreprise
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Ressenti;1;Insatisfaction : toujours contribuer à la même chaine de valeur dans le process de l'entreprise
+Expérience;Professionnelle;ENGIE Cofely | La Défense (92);Mission A de 2002 à 2011;Décision;1;Se ré-orienter pour collaborer avec des équipes plus engagées dans la technique
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission principale;Objectif;1;Réaliser les cahiers de réserves techniques lors de la prise en charge d'affaires
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission principale;Contexte;1;Lors de la signature de contrats de maintenance de grands sites tertiaire (CA > 1 Meuro/3 ans)
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission principale;Mandataire et gouvernance;1;A la demande de ma hierarchie, coaché par des référents techniques sur le terrain
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission principale;Démarche;1;S'approprier les règles de l'art sur les principes de fonctionnement de ces lots techniques
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission principale;Démarche;1;Mobiliser les exploitants et le client pour organiser des ateliers de test in situ
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission principale;Démarche;1;Contrôler le bon fonctionnement des équipements principaux et consigner les constats
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission principale;Démarche;1;Soumettre aux équipes travaux pour chiffrage en préalable à l'execution du contrat
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission principale;Relations;1;Autonomie demandée par ma hierarchie
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission principale;Relations;1;Disponibilité des exploitants et bon accueil des clients lors des missions sur site
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission principale;Résultats;1;Référence : Parlement Europeen, Tour Société Générale, Hôpital Marie Lannelongue, Unibail
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission principale;Résultats;1;Transparence et mise en confiance des exploitants et des clients
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission principale;Difficultés;1;Facilité d'accéder à des données d'exploitation trés précises utiles pour ma thèse
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission principale;Ressenti;1;Satisfaction : S'approprier des mécanismes de fonctionnement de ces installations
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission principale;Ressenti;1;Insatisfaction : Ne pas trouver de relais en interne pour partager les méthodes développées
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission principale;Décision;1;Changer de positionnement pour collaborer avec des paires
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission secondaire;Objectif;1;Ajuster les contrats d'achat d'énergie (> 100 keuro/an/installation) pour les grosses installations
+Expérience;Professionnelle;ENGIE Axima | Courbevoie (92);Mission secondaire;Objectif;1;Ajuster la production des équipements aux besoins en maximisant la performance
+Expérience;Professionnelle;Ecole Nationale d'Ingénieur | Metz (57);Mission de 1997 à 1999;Objectif;1;Enseigner la thermodynamique appliquée aux éléves de $3^{ème}$ année
+Expérience;Professionnelle;Ecole Nationale d'Ingénieur | Metz (57);Mission de 1997 à 1999;Contexte;1;Monitorat dans le cadre de ma thèse de doctorat
+Expérience;Professionnelle;Ecole Nationale d'Ingénieur | Metz (57);Mission de 1997 à 1999;Mandataire et gouvernance;1;Demande personnelle, coaching par un professeur d'université
+Expérience;Professionnelle;Ecole Nationale d'Ingénieur | Metz (57);Mission de 1997 à 1999;Résultats;1;Réalisation de ~ 60 travaux dirigés en thermodynamique appliquée pour 2 promotions d'éléves ingénieurs
+Expérience;Professionnelle;Ecole Nationale d'Ingénieur | Metz (57);Mission de 1997 à 1999;Ressenti;1;Satisfaction : Apporter un contenu utile et très appliqué aux étudiants
+Expérience;Professionnelle;Ecole Nationale d'Ingénieur | Metz (57);Mission de 1997 à 1999;Ressenti;1;Insatisfaction : Ne pas mobiliser suffisament les étudiants sur l'intérêt de ces cours
+Expérience;Professionnelle;Ecole Nationale d'Ingénieur | Metz (57);Mission de 1997 à 1999;Décision;1;Ne pas poursuivre immédiatement dans le metier de l'enseignement
+Expérience;Professionnelle;Armée de l'air | Contrexeville (88);Mission en 1996;Objectif;1;Assurer le transport du personnel militaire sur les différents postes de surveillances aériennes
+Expérience;Professionnelle;Armée de l'air | Contrexeville (88);Mission en 1996;Objectif;1;Assurer le transport des enfants du personnel militaire dans les écoles, collègues et lycées d'enseignement
+Expérience;Professionnelle;Armée de l'air | Contrexeville (88);Mission en 1996;Objectif;1;Assurer le transport des familles de militaires lors d'excursions culturelles
+Expérience;Professionnelle;Armée de l'air | Contrexeville (88);Mission en 1996;Objectif;1;Enseigner les mathématiques aux appelés du service militaire
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Objectif;1;Revaloriser un patrimoine forestier
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Contexte;1;Patrimoine forestier sans gestion sylvicole depuis des décennies
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Contexte;1;Patrimoine forestier endommagé par des évenements climatiques violents
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Contexte;1;Choix de reboisements inadapté sur certaines parcelles forestières
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Gouvernance;1;Réalisée en directe
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Démarche;1;Documenter les pratiques sylvicoles selon podologie et stations locales
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Démarche;1;Réaliser les opérations sylvicoles appropriées
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Démarche;2;Repiquage, depressage, taille de formation, élagage, eclaircie
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Démarche;2;Privilegier la mixité d'essences nobles et en station
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Démarche;2;Limiter au maximum la production de bois à faible valeur au profil de bois d'oeuvre
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Démarche;1;Se rapprocher des CRPF pour obtenir les certificats d'élagages correspondant
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Résultats;1;Restauration de l'état sanitaire des parcelles
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Résultats;1;Orientation de la production des parcelles vers du bois d'oeuvre de qualité certifiée
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Difficulté;1;Anticiper les aleas climatiques et sanitaires
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Ressenti;1;Contribuer à la valorisation des territoires
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Ressenti;1;Demuni face aux aleas climatiques
+Expérience;Extra-professionnelle;Gestion forestière | Vosges (88);Projet de 1995 à 2010;Décision;1;Sensibiliser
+Expérience;Extra-professionnelle;Raid en itinérance VTT | Haut atlas marocain;Projet en 2007;Objectif;1;Réaliser 1000 km d'itinérance en 2 semaines
+Formation;Initiale;Lycée | Gérardmer (88);BAC C en 1990;Difficultés;1;Acquisition de la maturité, du sens des responsabilités et de la confiance en soi à développer
+Formation;Initiale;Lycée | Gérardmer (88);BAC C en 1990;Ressenti;1;Attirance pour les disiplines scientifiques au détriment des disciplines litteraires
+Formation;Initiale;Lycée | Gérardmer (88);BAC C en 1990;Ressenti;1;Projet personnel pas encore suffisament construit
+Formation;Initiale;Lycée | Gérardmer (88);BAC C en 1990;Décision;1;Inscription en université afin d'avoir du temps pour préciser mon projet professionnel
+Formation;Initiale;Université Louis Pasteur | Strasbourg (67);DEUG A, Licence et Maîtrise de Mécanique de 1991 à 1994;Résultats;1;Confirmation de mon intérêt pour les sciences (mathématiques, physique, mécanique, thermodynamique)
+Formation;Initiale;Université Louis Pasteur | Strasbourg (67);DEUG A, Licence et Maîtrise de Mécanique de 1991 à 1994;Résultats;1;Développement de mon autonomie dans la prise de décisions et de réalisation d'actions
+Formation;Initiale;Université Louis Pasteur | Strasbourg (67);DEUG A, Licence et Maîtrise de Mécanique de 1991 à 1994;Résultats;1;Constitution d'un socle solide de connaissances pour comprendre notre environement et ces principes
+Formation;Initiale;Université Louis Pasteur | Strasbourg (67);DEUG A, Licence et Maîtrise de Mécanique de 1991 à 1994;Ressenti;1;Etape importante pour l'acquisition de la confiance en soi et de la satisfaction personnelle
+Formation;Initiale;Université Louis Pasteur | Strasbourg (67);DEUG A, Licence et Maîtrise de Mécanique de 1991 à 1994;Décision;1;Orientation naturelle vers les metiers de l'énergie qui incarnent des enjeux sociétaux importants
+Formation;Initiale;ENSIMEV | Valenciennes (59);DEA Mécanique et Energétique en 1995;Sujet de stage de fin d'étude;1;Stocker la chaleur estivale de serres maraîchères dans le sol via des échangeurs pour la restituer l'hiver
+Formation;Initiale;ENSIMEV | Valenciennes (59);DEA Mécanique et Energétique en 1995;Contexte;1;Prendre connaissance des travaux sur le stockage de chaleur sensible dans le sol
+Formation;Initiale;ENSIMEV | Valenciennes (59);DEA Mécanique et Energétique en 1995;Contexte;1;Capter les méthodes d'analyses mathématiques de diffusion de chaleur sensible en milieu isotrope
+Formation;Initiale;ENSIMEV | Valenciennes (59);DEA Mécanique et Energétique en 1995;Démarche;1;Modéliser les échangeurs enterrés air/sol sur les temps longs (cycle annuel) à l'aide de ces méthodes
+Formation;Initiale;ENSIMEV | Valenciennes (59);DEA Mécanique et Energétique en 1995;Démarche;1;Formaliser ces modèles via un logiciel de traitement (langage C)
+Formation;Initiale;ENSIMEV | Valenciennes (59);DEA Mécanique et Energétique en 1995;Démarche;1;Valider le modèle mathématique par les résultats obtenus d'un banc expérimental bardé de capteurs
+Formation;Initiale;ENSIMEV | Valenciennes (59);DEA Mécanique et Energétique en 1995;Résultats;1;Proposer un logiciel d'aide à la décision pour dimensionner les stockages de chaleur air/sol (serres maraîchères, verandas, pompe à chaleur pour l'habitat...)
+Formation;Initiale;ENSIMEV | Valenciennes (59);DEA Mécanique et Energétique en 1995;Résultats;1;Qualifier de nouvelles solutions techniques à commercialiser (échangeurs, boitiers de régulation de puissance thermique au stockage et destockage)
+Formation;Initiale;ENSIMEV | Valenciennes (59);DEA Mécanique et Energétique en 1995;Résultats;1;Rechercher des partenaires pour financer la suite de ce projet en thèse de doctorat CIFRE (exploitants de serres maraîchères, fabricants et bureaux d'études de serres, vérandas) sans succès
+Formation;Initiale;ENSIMEV | Valenciennes (59);DEA Mécanique et Energétique en 1995;Résultats;1;Rechercher un emploi par candidature spontanée sans résultat (CV très orienté recherche)
+Formation;Initiale;ENSIMEV | Valenciennes (59);DEA Mécanique et Energétique en 1995;Difficultés;1;Exigences à avoir pour obtenir des fonds
+Formation;Initiale;ENSIMEV | Valenciennes (59);DEA Mécanique et Energétique en 1995;Difficultés;1;Contraintes liées à la conjoncture économique (grèves et crise économique en 1995)
+Formation;Initiale;ENSIMEV | Valenciennes (59);DEA Mécanique et Energétique en 1995;Ressenti;1;Savoirs-faire à proposer aux employeurs limités à un domaine très spécifique
+Formation;Initiale;ENSIMEV | Valenciennes (59);DEA Mécanique et Energétique en 1995;Décision;1;Réaliser le service militaire en temps qu'Aspirant dans l'armée de l'air
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Sujet;1;Optimisation technico-économique des systèmes de production et distribution de chaleur et de force
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Sujet;1;Application aux bâtiments tertiaires
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Contexte;1;S'approprier les mecanismes du marché des énergies en France
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Contexte;1;Répertorier les méthodes de prévision de demande énergétique des bâtiments du secteur tertiaire
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Contexte;1;Documenter les équipements de production et de distribution  d'électricité et de chaleur
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Contexte;1;Maîtriser les méthodes de chiffrage pour l'installation et la maintenance de ces systèmes
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Démarche;1;1996 à 1999 : Doctorant au LEMTA, laboratoire l'ENSEM (thèse financée sur bourse d'état)
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Démarche;2;Collecter ces éléments de contexte par de multiples contacts des acteurs concernés
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Démarche;2;*clients :* centres hospitaliers, bâtiments de bureau (CHU de Brabois, INPL Brabois)
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Démarche;2;*exploitants :* de chaufferies réparties, de centrales électriques (Dalkia, UEM, EDF)
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Démarche;2;*bureaux d'études:* pour la construction de chaufferies, de centrales électriques (CDF Ingénieurie)
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Démarche;1;1999 à 2001 : Ingénieur d'études chez AXIMA, société d'installation et d'exploitation énergétique
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Démarche;2;Coupler dans une même méthode les modèles suivants
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Démarche;2;Prévision de demande énergétique du bâtiment (contrainte météorologique et process client)
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Démarche;2;Pilotage des équipements de production (contrainte des choix techniques de dimensionnement)
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Démarche;2;Prix des énergies (éléctricité tarif Vert A5/8, Base/EJP/Modulable, gaz tarif TEP, TEL, B2S)
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Résultats;1;Finaliser cette méthode d'aide à la décision pour répondre à la problèmatique ci-dessous
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Résultats;1;Concevoir, integrer et exploiter une cogénération en minimisant le temps de retour sur investissement
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Résultats;1;Formaliser cette méthode dans une interface logicielle
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Résultats;1;Soumettre aux *clients* et *exploitants* diverses études de cas en réponse à leur problèmatique
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Ressenti;1;Maturité atteinte sur les métiers en lien avec l'efficacité énergétique
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Ressenti;1;Compétences reconnues par mes différents mandataires
+Formation;Initiale;ENSEM Lemta | Nancy (54);Thèse de Mécanique et Energétique de 1997 à 2001;Décision;1;La société Cofely, invitée à mon jury de thèse, m'ouvre un CDI pour poursuivre ce projet avec eux
+Formation;Continue;Telelangue;Anglais intermediaire depuis 2005;Contexte;1;Peu d'opprotunité de pratiquer l'anglais parlé au sein de mes activités professionnelles
+Formation;Continue;Telelangue;Anglais intermediaire depuis 2005;Objectif;1;Maintenir le niveau
+Formation;Continue;Telelangue;Anglais intermediaire depuis 2005;Démarche;1;40 demi-heures d'échanges téléphoniques
+Formation;Continue;Telelangue;Anglais intermediaire depuis 2005;Résultats;1;"Niveau ""Intermediaire 1"""
+Formation;Continue;Telelangue;Anglais intermediaire depuis 2005;Ressenti;1;Me permet effectivement de maintenir un niveau
+Formation;Continue;Telelangue;Anglais intermediaire depuis 2005;Décision;1;Poursuivre
+Formation;Continue;Engie University;Exploreur en 2007;Contexte;1;Formation déstinée aux cadres désireux de se familiariser au management de l'entreprise
+Formation;Continue;Engie University;Exploreur en 2007;Objectif;1;Acquérir les techniques de management d'une entreprise
+Formation;Continue;Engie University;Exploreur en 2007;Objectif;1;Positionner les entreprises par marché et politique tarifaire
+Formation;Continue;Engie University;Exploreur en 2007;Objectif;1;Investir en R&D et innovation
+Formation;Continue;Engie University;Exploreur en 2007;Objectif;1;Communiquer auprès du Client
+Formation;Continue;Engie University;Exploreur en 2007;Objectif;1;Contrôler la qualité de fabrication
+Formation;Continue;Engie University;Exploreur en 2007;Objectif;1;Satisfaire et rémunérer le personnel
+Formation;Continue;Engie University;Exploreur en 2007;Objectif;1;Gérer les stocks et achats fournisseur...
+Formation;Continue;Engie University;Exploreur en 2007;Démarche;1;5 jours en formation
+Formation;Continue;Engie University;Exploreur en 2007;Démarche;1;Mettre en situation les candidats au travers d'un jeu de rôle
+Formation;Continue;Engie University;Exploreur en 2007;Démarche;1;Au 1er jour, 4 équipes de 5 stagiaires se répartissent le CA d'une activité donnée
+Formation;Continue;Engie University;Exploreur en 2007;Démarche;1;Au fils des 4 jours suivants, les équipes doivent poster leur décision
+Formation;Continue;Engie University;Exploreur en 2007;Démarche;1;A l'issue, un classement des entreprises est réalisé
+Formation;Continue;Engie University;Exploreur en 2007;Ressenti;1;Les arbitrages a réaliser peuvent vite devenir grissant !
+Formation;Continue;Engie University;Exploreur en 2007;Décision;1;Intégrer le plus possible dans mes missions la valeur client et entreprise
+Formation;Continue;Engie University;e2B Expertise to Business en 2010;Contexte;1;Le groupe ENGIE dispose d'un réseau de Top et de Key experts
+Formation;Continue;Engie University;e2B Expertise to Business en 2010;Contexte;1;Souhait de valoriser ce réseau et le potentiel de développement qu'il représente
+Formation;Continue;Engie University;e2B Expertise to Business en 2010;Objectif;1;Acquerir les techniques nécessaires pour passer d'une idée à un business
+Formation;Continue;Engie University;e2B Expertise to Business en 2010;Objectif;2;Le pitch, le business plan, la recherche de fonds d'investissements
+Formation;Continue;Engie University;e2B Expertise to Business en 2010;Objectif;2;La recherche de partenaires et la constitution d'un environnement favorable
+Formation;Continue;Engie University;e2B Expertise to Business en 2010;Démarche;1;Avant la formation, les candidats soumettent des idées de business aux organisateurs
+Formation;Continue;Engie University;e2B Expertise to Business en 2010;Démarche;1;Au 1er jour, 3 idées sont sélectionnées et les candidats se répartissent par affinité
+Formation;Continue;Engie University;e2B Expertise to Business en 2010;Démarche;1;Au fils des 4 jours suivants, préparation d'un business plan étayé
+Formation;Continue;Engie University;e2B Expertise to Business en 2010;Démarche;1;Au 5èmes jours, restitution devant un comité d'investissement pour obtention d'une enveloppe de financement
+Formation;Continue;Engie University;e2B Expertise to Business en 2010;Ressenti;1;L'innovation est un fort relais de croissance
+Formation;Continue;Engie University;e2B Expertise to Business en 2010;Décision;1;Faire la promotion de l'innovation dans mes futures missions
+Formation;Continue;Cegos;Le chef de projet de développement de produits nouveaux en 2011;Contexte;1;Une société souhaite numériser un processus d'entreprise
+Formation;Continue;Cegos;Le chef de projet de développement de produits nouveaux en 2011;Contexte;1;Elle fait appel à un prestataire pour decrire ce processus
+Formation;Continue;Cegos;Le chef de projet de développement de produits nouveaux en 2011;Objectif;1;Acquérir les méthodes nécessaires pour formaliser la description de ce processus
+Formation;Continue;Cegos;Le chef de projet de développement de produits nouveaux en 2011;Démarche;1;3 jours de formation théorique accompagnée de mise en situation
+Formation;Continue;Cegos;Le chef de projet de développement de produits nouveaux en 2011;Résultats;1;Bonne compréhension de ces méthodes ré-employées à diverses reprises
+Formation;Continue;Cegos;Le chef de projet de développement de produits nouveaux en 2011;Ressenti;1;Structurer et industrialiser les process permet à l'entreprise de quitter l'artisanat
+Formation;Continue;Cegos;Le chef de projet de développement de produits nouveaux en 2011;Ressenti;1;Méthodes très efficaces pour monter en performance
+Formation;Continue;Cegos;Le chef de projet de développement de produits nouveaux en 2011;Décision;1;S'appuyer le plus souvent possible sur les méthodes présentées
+Formation;Continue;Microsoft;Advanced analytics laboratory en 2016;Contexte;1;Une société souhaite construire des modélisations de données et les mettre en production
+Formation;Continue;Microsoft;Advanced analytics laboratory en 2016;Objectif;1;Acquérir les méthodes nécessaires pour
+Formation;Continue;Microsoft;Advanced analytics laboratory en 2016;Objectif;2;Extraire des données, les transformer et les charger
+Formation;Continue;Microsoft;Advanced analytics laboratory en 2016;Objectif;2;Construire des modèles de prévision supervisés ou non et les mettre en production
+Formation;Continue;Microsoft;Advanced analytics laboratory en 2016;Objectif;2;Paralléliser des traitements nécessitant de grandes capacités de calcul et de mémoire
+Formation;Continue;Microsoft;Advanced analytics laboratory en 2016;Démarche;1;2 jours de formation avec réalisation de travaux pratiques directement sous Azure
+Formation;Continue;Microsoft;Advanced analytics laboratory en 2016;Résultats;1;Bonne compréhension de ces méthodes. Elles seront à ré-employer rapidement
+Formation;Continue;Microsoft;Advanced analytics laboratory en 2016;Ressenti;1;Structurer et industrialiser les process permet à l'entreprise de quitter l'artisanat
+Formation;Continue;Microsoft;Advanced analytics laboratory en 2016;Ressenti;1;Méthodes très efficaces pour monter en performance
+Formation;Continue;Microsoft;Advanced analytics laboratory en 2016;Décision;1;S'appuyer le plus souvent possible sur les méthodes présentées
+Formation;Autoformation;MOOC FUN;Introduction a la statistique avec R en 2015;Démarche;1;5 jours environ de formation autonome sur le web
+Formation;Autoformation;MOOC FUN;Introduction a la statistique avec R en 2015;Ressenti;1;Idem que précédemment
+Formation;Autoformation;MOOC FUN;Introduction a la statistique avec R en 2015;Décision;1;Idem que précédemment
+Formation;Autoformation;MOOC FUN;Analyse des donnees multidimensionnelles en 2015;Contexte;1;Disposer de jeux de données de variables supposées indépendantes
+Formation;Autoformation;MOOC FUN;Analyse des donnees multidimensionnelles en 2015;Objectif;1;Acquérir des méthodes de classification de ces données (ACP, AFC, ACM, CAH...)
+Formation;Autoformation;MOOC FUN;Analyse des donnees multidimensionnelles en 2015;Démarche;1;10 jours environ de formation autonome sur le web
+Formation;Autoformation;MOOC FUN;Analyse des donnees multidimensionnelles en 2015;Résultats;1;Bonne compréhension de ces méthodes ré-employées à diverses reprises
+Formation;Autoformation;MOOC FUN;Analyse des donnees multidimensionnelles en 2015;Ressenti;1;Avec très peu de commandes, des jeux de données peuvent être organisés
+Formation;Autoformation;MOOC FUN;Analyse des donnees multidimensionnelles en 2015;Décision;1;Mise en application dans les projets en cours
+Formation;Autoformation;R blogger;Traitement de données depuis 2015;Contexte;1;Une large communité de scientifiques traite de toutes sortes de données en langage R
+Formation;Autoformation;R blogger;Traitement de données depuis 2015;Contexte;1;Les résultats des travaux de cette communauté sont rendus publiques et accessibles à tous
+Formation;Autoformation;R blogger;Traitement de données depuis 2015;Contexte;1;Tout besoin individuel de traitement de données peut être effectué à partir de ces résultats
+Formation;Autoformation;R blogger;Traitement de données depuis 2015;Objectif;1;Acquérir ces diverses méthodes de traitements mises à disposition sur le web
+Formation;Autoformation;R blogger;Traitement de données depuis 2015;Démarche;1;Lecture du journal quotidien transmis par https://www.r-bloggers.com/
+Formation;Autoformation;R blogger;Traitement de données depuis 2015;Résultats;1;Appropriation des méthodes nécessaires à l'exercice de mes activités
+Formation;Autoformation;R blogger;Traitement de données depuis 2015;Ressenti;1;Valoriser les travaux mis à disposition par la communauté
+Formation;Autoformation;R blogger;Traitement de données depuis 2015;Décision;1;Poursuivre cette lecture quotidienne

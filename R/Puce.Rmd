@@ -1,0 +1,6 @@
+```{r {{puce.p}}, echo=FALSE}
+puce_p <- {{puce.p}}
+puce_pp <- ldply(strsplit(as.character(puce_p), split = "0"))
+puce_p <- as.integer(puce_pp[, ncol(puce_pp)])
+```
+`r paste(ifelse(puces[puce_p, 1] == 1, yes = "-", no = ifelse(puces[puce_p, 1] == 2, yes = "    -", no = "")), puces[puce_p, 2], sep = " ")`

@@ -1,0 +1,52 @@
+---
+title: "Bilan de compétence"
+subtitle: "Réussites"
+author:
+- David ROMARY | ENGIE Cofely | 1 Place des degrès | 92059 PARIS LA DEFENSE
+- Architecte en efficacité énergétique et analyste senior
+- david.romary1@gmail.com | +33675251242
+date: "`r Sys.Date()`"
+output: pdf_document
+header-includes:
+- \usepackage{lscape}
+---
+
+# Objectif
+
+\begin{center}Identifier et analyser les facteurs de réussites dans les expériences passées et présentes pour les projeter dans l'avenir\end{center}
+
+# Contexte
+
+Selectionner 3 réalisations répondant à au moins une des règles suivantes :
+
+- Se sentir gratifier
+- Mener le projet à son terme
+- Etre fière d'avoir obtenir ce résultat
+- Apprendre quelque chose
+
+# Description de 3 réalisations
+
+## A - Méthode de prévision de toutes les variables de performance d'une installation de chauffage
+
+### Contexte
+
+Cofely exploite un très grand nombre d'installations de chauffage.
+Ces installations doivent distribuées la chaleur nécessaire aux bâtiments du client dans le respect des engagements contractuels.
+Elles sont pilotées par des automates. Ces automates sont programmés par les équipes d'exploitation de sorte qu'ils commandent les actionneurs (robinets thermostatiques, pompes, bruleurs, chaudière) en fonction de mesures effectuées sur un certain nombre de capteurs (température d'air, d'eau, de conduit de fumée, de pression d'eau...).
+Toutes ces variables de commande et de mesure sont archivées dans des bases de données.
+
+### Objectif
+
+\begin{landscape}
+
+```{r, echo=FALSE, eval=TRUE}
+.libPaths("D:/Users/EFE410/Documents/R/win-library/3.1")
+library(knitr)
+library(readr)
+
+jeu <- read_csv2("Analyse_de_3_realisation.csv")
+
+kable(jeu)
+```
+
+\end{landscape}
