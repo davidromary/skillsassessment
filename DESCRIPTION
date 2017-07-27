@@ -1,0 +1,11 @@
+Package: skillsassessment
+Type: Package
+Title: check up my skills assessment and my career path
+Version: 0.1.0
+Author: David ROMARY
+Maintainer: David ROMARY <david.romary1@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: CC0
+Encoding: UTF-8
+LazyData: true
